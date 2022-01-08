@@ -1,0 +1,22 @@
+{
+  "name": "Repository",
+  "version": "0.1.0",
+  "summary": "A short description of Repository.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gretzki/RepositoryTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gretzki": "github@gretzki.name"
+  },
+  "source": {
+    "git": "https://github.com/gretzki/RepositoryTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Repository/Classes/**/*"
+}

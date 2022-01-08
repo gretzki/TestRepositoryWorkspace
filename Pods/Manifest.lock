@@ -1,0 +1,22 @@
+PODS:
+  - Repository (0.1.0)
+
+DEPENDENCIES:
+  - Repository (from `https://github.com/gretzki/TestRepositoryPod.git`, tag `0.1.0`)
+
+EXTERNAL SOURCES:
+  Repository:
+    :git: https://github.com/gretzki/TestRepositoryPod.git
+    :tag: 0.1.0
+
+CHECKOUT OPTIONS:
+  Repository:
+    :git: https://github.com/gretzki/TestRepositoryPod.git
+    :tag: 0.1.0
+
+SPEC CHECKSUMS:
+  Repository: 6336af9ceb140d7ac9aa3cea9d04879a3dc3b6f1
+
+PODFILE CHECKSUM: 201b158463b976ffa7990f000fb5f00f89da0131
+
+COCOAPODS: 1.11.2
